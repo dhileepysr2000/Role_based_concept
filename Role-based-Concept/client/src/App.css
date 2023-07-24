@@ -1,0 +1,22 @@
+.signinn {
+  background-color: lightseagreen;
+  height: 100vh;
+}
+.signupp {
+  background-image: url("img.jpg");
+  background-repeat: round;
+  background-color: lightslategray
+}
+.signinnn {
+  margin-top: 200px;
+
+}
+.adminn {
+  background-image: url("Admin1.jpg");
+}
+.userdash {
+  background-color: lightcyan;
+}
+.empdash {
+  background-color: lavenderblush;
+}
